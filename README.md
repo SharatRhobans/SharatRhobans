@@ -1,8 +1,8 @@
-<h2 align="left">Hi there👋! <br>I'm SHARAT RHOBAN S.</h2>
+<h2 align="left">Hey Whatsapp👋! <br>I'm SHARAT RHOBAN S</h2>
 
 ###
 
-<p align="left">Pre-final year B.E ECE STUDENT.</p>
+<p align="left">Final Year B.E(ECE) Student</p>
 
 ###
 
